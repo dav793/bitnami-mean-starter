@@ -47,4 +47,4 @@ dist
 .idea
 
 # configuration
-gulpfile.js
+# gulpfile.js
